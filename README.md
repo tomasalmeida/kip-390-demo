@@ -1,4 +1,4 @@
-# Subject name strategies
+# KIP-390
 
 ## Start the environment and code compilation
 
